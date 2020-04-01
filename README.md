@@ -1,2 +1,2 @@
 # devops
-this is a a readme file
+this is a readme file
